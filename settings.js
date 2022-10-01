@@ -15,7 +15,7 @@ global.alivemsg = `📤I am alive😎
 🤷‍♀️༺♥🇮ᵐʀᵃɴ 🇲 ᵃɴⁱ ♥﻿༻ ` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -40,9 +40,9 @@ global.alivepic = `https://i.ibb.co/Bcf9Kbf/IMG-20221001-WA0057.jpg` // alive pi
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "true" // To remove bad word senders
+global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
